@@ -34,8 +34,6 @@ C ->>- A: 回應資料
 ```mermaid
 gantt
 title 專案開發時間表
-dateFormat YYYY-MM-DD
-excludes weekends, 2020-11-11
 section 設計
 電腦版: d1, 2020-11-9, 7d
 手機版: d2, after d1, 3d
